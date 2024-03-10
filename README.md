@@ -1,3 +1,3 @@
 # cours_flutter_simple_list_view
 
-A new Flutter project.
+Une micro-application d'exemple qui implémente un ListView et une navigation basique.
